@@ -6,9 +6,6 @@
 1. Context API
 1. Github API (for getting users)
 
-> Hosted at: [Github Finder](http://sps-github-finder.herokuapp.com/)
-
-
 ### Usage:
 Add your environment variables in '.env.local' file (in root directory of project):
 ```env
